@@ -7,3 +7,5 @@ then start your react app using (npm start) command
 # Then Open Browser
 using this url http//127.0.0.1:8000/api/ then see all records are coming from our database
 this records are same as our front react app 
+
+/home/aj/Pictures/Screenshot from 2020-07-01 14-02-43.png
