@@ -8,3 +8,6 @@ then start your react app using (npm start) command
 using this url http//127.0.0.1:8000/api/ then see all records are coming from our database
 this records are same as our front react app 
 
+# Date format
+when you update your records first see the date format in this http//127.0.0.1:8000/api/ 
+you fill the all details then click update button and refresh the page
