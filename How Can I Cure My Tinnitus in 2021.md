@@ -18,7 +18,7 @@ Make sure you describe to your doctor the kind of noise you hear from tinnitus a
 
 **High pitched resonance.** This is the sound most commonly associated with tinnitus. Possible causes include exposure to loud noises, hearing loss, or taking certain medications. An acoustic neuroma can cause a continuous high-pitched ringing in one ear.
 
-##Treatment
+**Treatment**
 
 Treatment for tinnitus depends on its cause and whether it is caused by an underlying health condition. If tinnitus is due to an underlying cause, your doctor may be able to relieve symptoms by treating the underlying cause. Examples include:
 
